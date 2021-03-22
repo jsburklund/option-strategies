@@ -1,2 +1,2 @@
-# option-strategies
+# Options Strategies
 TBD
